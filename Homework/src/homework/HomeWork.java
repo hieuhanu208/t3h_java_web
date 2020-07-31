@@ -31,7 +31,7 @@ public class HomeWork {
 				break;
 				
 			case 4 :
-				System.exit(-1);
+				System.exit(0);
 				break;
 				default:
 					System.err.print("ERRROERRRR");
